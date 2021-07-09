@@ -1,0 +1,11 @@
+{
+  "name": "lekcja_1",
+  "version": "1.0.0",
+  "description": "Learning HTML- lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monika Buchacz",
+  "license": "ISC"
+}
